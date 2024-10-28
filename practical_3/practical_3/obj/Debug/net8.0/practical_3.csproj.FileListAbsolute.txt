@@ -1,0 +1,14 @@
+E:\sem3\practical_3\practical_3\obj\Debug\net8.0\practical_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\sem3\practical_3\practical_3\obj\Debug\net8.0\practical_3.AssemblyInfoInputs.cache
+E:\sem3\practical_3\practical_3\obj\Debug\net8.0\practical_3.AssemblyInfo.cs
+E:\sem3\practical_3\practical_3\obj\Debug\net8.0\practical_3.csproj.CoreCompileInputs.cache
+E:\sem3\practical_3\practical_3\bin\Debug\net8.0\practical_3.exe
+E:\sem3\practical_3\practical_3\bin\Debug\net8.0\practical_3.deps.json
+E:\sem3\practical_3\practical_3\bin\Debug\net8.0\practical_3.runtimeconfig.json
+E:\sem3\practical_3\practical_3\bin\Debug\net8.0\practical_3.dll
+E:\sem3\practical_3\practical_3\bin\Debug\net8.0\practical_3.pdb
+E:\sem3\practical_3\practical_3\obj\Debug\net8.0\practical_3.dll
+E:\sem3\practical_3\practical_3\obj\Debug\net8.0\refint\practical_3.dll
+E:\sem3\practical_3\practical_3\obj\Debug\net8.0\practical_3.pdb
+E:\sem3\practical_3\practical_3\obj\Debug\net8.0\practical_3.genruntimeconfig.cache
+E:\sem3\practical_3\practical_3\obj\Debug\net8.0\ref\practical_3.dll
